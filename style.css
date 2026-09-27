@@ -1,0 +1,48 @@
+
+style.css
+* {
+    padding: 0;
+    margin: 0;
+}
+header:hover {
+    background-color: palegreen;
+    cursor: pointer;
+}
+    
+ 
+#rodzic {
+    display: flex;
+    text-align: center;
+    height: 400px;
+    
+    
+    
+}
+#lewa {
+    background-color: red;
+    font-size: 50px;
+    width:60%;
+flex-direction: column;
+}
+#prawa {
+    background-color: aliceblue;
+    font-size: 40px;
+    width: 40%;
+    
+
+}
+footer {
+    background-color: yellowgreen;
+    height: 100px;
+}
+
+header {
+    background-color: blue;
+    height: 100px
+}
+#prawa2 {
+ background-color: gold;
+    font-size: 40px;
+
+
+}
